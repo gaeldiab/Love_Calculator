@@ -8,9 +8,9 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Love Calculator** is an android app that **fill in this description**
+**Love Calculator** is an android app that **calculates the compatibility of two names**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **❤️🥰🫶**
 
 ## Application Features
 
