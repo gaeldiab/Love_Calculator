@@ -2,13 +2,13 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: **Gael Diab**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+**Love Calculator** is an android app that **fill in this description**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
